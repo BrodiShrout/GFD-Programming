@@ -40,6 +40,7 @@ body {
 
 a {
   border-color: #01402E;
+  color:#059652;
   text-decoration: none;
 }
 
@@ -1165,6 +1166,10 @@ section {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
+}
+
+.alt-services .icon-box a {
+  color: #01402E;
 }
 
 /*--------------------------------------------------------------
